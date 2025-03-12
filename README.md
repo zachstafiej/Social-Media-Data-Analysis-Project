@@ -18,3 +18,12 @@ The goal of this project is to analyze social media engagement trends by explori
 4. Drawing data-driven insights to help inform strategies for increasing engagement in various content types.
 
 By the end of this project, we will have a deeper understanding of what drives user interactions on social media and how data analysis can be leveraged to improve content performance.
+
+## Scope of the Project
+The dataset we are working with simulates tweets or social media posts, each belonging to a specific content category (e.g., Food, Travel, Fashion, Music, etc.) with a corresponding number of likes. Our analysis will focus on:
+
+Understanding how likes are distributed across different categories.
+Identifying which categories receive the most engagement.
+Performing statistical calculations to gain quantitative insights.
+Generating visual representations of the data to highlight trends.
+This project will not only reinforce data cleaning, visualization, and statistical analysis skills but also provide real-world insights into how data-driven decisions can enhance content strategies on social media platforms.
